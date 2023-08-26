@@ -31,4 +31,4 @@ OLMS is an online leave application platform for students with user authenticati
   <li>Remotely accessible</li>
   <li>Efficient</li>
 </ul>
-About the author: Bandi Vikram Kumar
+About the author: Pragada PadmaPriya
